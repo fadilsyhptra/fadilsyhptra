@@ -66,7 +66,17 @@ I'm a versatile developer with expertise spanning from **web development** to **
 </div>
 
 ---
-## Play games with me
+
+## 🎧 Listen to spotify with me
+
+<div align="center">
+  <a href="https://open.spotify.com/user/ディル">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%E3%83%87%E3%82%A3%E3%83%AB&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
+## 🎮 Play games with me!
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadilsyhptra/fadilsyhptra/output/pacman-contribution-graph-dark.svg">
