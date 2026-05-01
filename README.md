@@ -20,7 +20,8 @@
 
 ## 💫 About Me
 
-I'm a versatile developer with expertise spanning from **web development** to **machine learning** and **cloud infrastructure**. I love tackling challenging problems and creating solutions that matter.
+I’m a developer focused on Machine Learning, IoT, and programming with Python and C++.
+Currently, I’m learning more about AI and improving my problem-solving skills through competitive programming in C++.
 
 ---
 
