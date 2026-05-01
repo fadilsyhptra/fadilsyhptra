@@ -67,15 +67,6 @@ I'm a versatile developer with expertise spanning from **web development** to **
 
 ---
 
-## 🎧 Listen to spotify with me
-
-<div align="center">
-  <a href="https://open.spotify.com/user/ディル">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%E3%83%87%E3%82%A3%E3%83%AB&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
----
 ## 🎮 Play games with me!
 
 <picture>
@@ -83,11 +74,6 @@ I'm a versatile developer with expertise spanning from **web development** to **
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadilsyhptra/fadilsyhptra/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fadilsyhptra/fadilsyhptra/output/pacman-contribution-graph.svg">
 </picture>
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/fadilsyhptra/fadilsyhptra/output/snake.svg" alt="Snake animation" />
-
 
 ---
 
