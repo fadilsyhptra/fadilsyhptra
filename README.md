@@ -1,7 +1,7 @@
 # 🚀 Muhammad Fadil Syahputra
 
 <p align="center">
-  <img src="./image/luffy.gif" width="200"/>
+  <img src="https://github.com/fadilsyhptra/fadilsyhptra/blob/ca889bc68834c8c4c340ed1e3c807567af819707/Image/luffy.gif" width="200"/>
 </p>
 
 ---
