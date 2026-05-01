@@ -1,11 +1,5 @@
 # Hello World! I'm Muhammad Fadil Syahputra 👋
 
-<p align="center">
-  <img src="https://github.com/fadilsyhptra/fadilsyhptra/blob/ca889bc68834c8c4c340ed1e3c807567af819707/Image/luffy.gif" width="400"/>
-</p>
-
----
-
 <div align="center">
 
 ### Full-Stack Developer | AI/ML Enthusiast | Cloud Computing Explorer
@@ -13,6 +7,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fadilsyhptra&color=0891b2&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/fadilsyhptra?style=flat&logo=github)
+
+---
+
+<p align="center">
+  <img src="https://github.com/fadilsyhptra/fadilsyhptra/blob/ca889bc68834c8c4c340ed1e3c807567af819707/Image/luffy.gif" width="400"/>
+</p>
 
 </div>
 
