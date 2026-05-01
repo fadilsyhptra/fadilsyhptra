@@ -67,6 +67,23 @@ I'm a versatile developer with expertise spanning from **web development** to **
 
 ---
 
+<div align="center">
+  <a href="https://open.spotify.com/user/ディル">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=%E3%83%87%E3%82%A3%E3%83%AB&count=5&unique=true" alt="Spotify recently played"  />
+  </a>
+</div>
+
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fadilsyhptra/fadilsyhptra/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fadilsyhptra/fadilsyhptra/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/fadilsyhptra/fadilsyhptra/output/pacman-contribution-graph.svg">
+</picture>
+
+
+---
+
 ## 💡 Random Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
