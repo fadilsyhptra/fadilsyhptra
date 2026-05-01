@@ -2,7 +2,7 @@
 
 <div align="center">
 
-### Full-Stack Developer | AI/ML Enthusiast | Cloud Computing Explorer
+### AI/ML Enthusiast | Internter Of Things Explorer
 **Building the future, one commit at a time**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fadilsyhptra&color=0891b2&style=flat)
