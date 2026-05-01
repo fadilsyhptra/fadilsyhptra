@@ -1,6 +1,8 @@
 # 🚀 Muhammad Fadil Syahputra
 
-![Omagaaa](./Image/luffy.gif)
+<p align="center">
+  <img src="./image/luffy.gif" width="200"/>
+</p>
 
 ---
 
