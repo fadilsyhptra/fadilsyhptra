@@ -1,5 +1,9 @@
 # 🚀 Muhammad Fadil Syahputra
 
+![Omagaaa](./Image/luffy.gif)
+
+---
+
 <div align="center">
 
 ### Full-Stack Developer | AI/ML Enthusiast | Cloud Computing Explorer
