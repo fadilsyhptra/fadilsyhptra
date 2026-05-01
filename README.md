@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Muhammad Fadil Syahputra
+
+- I'm currently learn python with API
 
 <!--
 **fadilsyhptra/fadilsyhptra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
