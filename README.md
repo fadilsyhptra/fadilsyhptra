@@ -1,9 +1,9 @@
-# Hello World! I'm Muhammad Fadil Syahputra 👋
+# # Hello World! I'm Muhammad Fadil Syahputra 👋
 
 <div align="center">
 
-### AI/ML Enthusiast | Internet Of Things Explorer
-**Building the future, one commit at a time**
+### 🛡️ Cybersecurity Enthusiast | 📡 Telecommunication Systems Student
+**Securing systems, exploiting vulnerabilities, and building one commit at a time**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=fadilsyhptra&color=0891b2&style=flat)
 ![GitHub followers](https://img.shields.io/github/followers/fadilsyhptra?style=flat&logo=github)
@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/fadilsyhptra/fadilsyhptra/blob/ca889bc68834c8c4c340ed1e3c807567af819707/Image/luffy.gif" width="400"/>
+  <img src="https://github.com/fadilsyhptra/fadilsyhptra/blob/ca889bc68834c8c4c340ed1e3c807567af819707/Image/luffy.gif" width="380"/>
 </p>
 
 </div>
@@ -20,27 +20,41 @@
 
 ## 💫 About Me
 
-I’m a developer focused on Machine Learning, IoT, and programming with Python and C++.
-Currently, I’m learning more about AI and improving my problem-solving skills through competitive programming in C++.
+* 🎓 First-year **Telecommunication Systems** student at **Universitas Pendidikan Indonesia (UPI)**.
+* 🛡️ Deeply interested in **Cybersecurity**, **Capture The Flag (CTF)** challenges, and **Web Exploitation** (SSTI, SQLi, Path Traversal, SSRF).
+* 🐍 Developing security labs and automation tools using **Python**, **FastAPI**, and **Linux/Bash**.
+* 💡 Continuous learner passionate about competitive programming, network security, and open-source projects.
 
 ---
 
-## 🛠️ Tech Arsenal
+## 🛠️ Tech & Security Arsenal
 
-### 🎨 **Frontend Development**
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+### 🛡️ **Cybersecurity & Analysis Tools**
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C93?style=for-the-badge&logo=kali-linux&logoColor=white)
+![WSL](https://img.shields.io/badge/WSL-4EAA25?style=for-the-badge&logo=windows-subsystem-for-linux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6600?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
 
-### 🖥️ **Backend & Core Languages**
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+### 🖥️ **Core Languages & Backend**
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🤖 **AI & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+### 🎨 **Frontend & Web Development**
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Jinja](https://img.shields.io/badge/Jinja2-B41717?style=for-the-badge&logo=jinja&logoColor=white)
 
-### ☁️ **Cloud & Database**
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![MySQL](https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-### 🔧 **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Cisco](https://img.shields.io/badge/Cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+### 🔧 **Tools & Workflow**
+![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 
 ---
 
@@ -48,7 +62,7 @@ Currently, I’m learning more about AI and improving my problem-solving skills 
 
 <div align="center">
 
-![Fadil's GitHub stats](https://github-readme-stats.shion.dev/api/top-langs/?username=fadilsyhptra&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
+![Fadil's Top Languages](https://github-readme-stats.shion.dev/api/top-langs/?username=fadilsyhptra&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=fadilsyhptra&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
@@ -60,9 +74,11 @@ Currently, I’m learning more about AI and improving my problem-solving skills 
 
 <div align="center">
 
-### 📱 Find me on
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fadil-syahputra-4377b3275/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fadilsyhputra_0726) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fadilsyhptra) [![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fadilsyh26) [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadilsyh26@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-fadil-syahputra-4377b3275/)
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fadilsyhptra_0726)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@fadilsyhptra)
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@fadilsyh26)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:fadilsyh26@gmail.com)
 
 </div>
 
@@ -81,4 +97,3 @@ Currently, I’m learning more about AI and improving my problem-solving skills 
 ## 💡 Random Dev Wisdom
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
