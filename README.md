@@ -11,7 +11,7 @@
 ---
 
 <p align="center">
-  <img src="https://github.com/fadilsyhptra/fadilsyhptra/blob/ca889bc68834c8c4c340ed1e3c807567af819707/Image/luffy.gif" width="380"/>
+  <img src="https://github.com/fadilsyhptra/fadilsyhptra/blob/main/Image/eec6f6980619cff8932558793d13be50.gif" width="380"/>
 </p>
 
 </div>
